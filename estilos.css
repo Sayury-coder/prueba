@@ -1,8 +1,4 @@
 body {
-<<<<<<< HEAD
-    text-align: center;
-    font-size: large;
-=======
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -40,5 +36,4 @@ body {
 
 #post {
     padding: 1em;
->>>>>>> cabecera
 }
